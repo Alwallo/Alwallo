@@ -3,15 +3,6 @@
 <h2 align="center">Currently, I'm studying Front-End Web Development.</h2>
 <h2 align="center">Welcome to my GitHub Profile. Hope you enjoy it.</h2>
 
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Alw&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <div align="center">

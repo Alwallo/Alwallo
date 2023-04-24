@@ -3,7 +3,7 @@
 <h2 align="center">It's Alvaro Gonzalez a.k.a Alwallo!<br>Welcome to my GitHub Profile. Hope you enjoy it.</h2>
 
 <div align="center">
-  <h3>About me</h3><br>
+  <h3>About me</h3>
   - ✨ Studying System Engineering since 2017<br>
   - 🎯 Goals: Become a Senior Front-End Web Developer:D<br>
   - 📚 I'm currently learning English <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" /><br>

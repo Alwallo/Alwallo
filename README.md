@@ -1,5 +1,8 @@
-### Hi there 👋
-<h2 align="center">Hello, It's Alvaro Gonzalez a.k.a Alwallo! Currently, I'm studying Front-End Web Development. Welcome to my GitHub Profile.</h2>
+<h1 align="center">Hi there 👋</h1>
+<h2 align="center">It's Alvaro Gonzalez a.k.a Alwallo!</h2>
+<h2 align="center">Currently, I'm studying Front-End Web Development.</h2>
+<h2 align="center">Welcome to my GitHub Profile. Hope you enjoy it.</h2>
+
 
 ###
 

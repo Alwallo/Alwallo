@@ -5,7 +5,7 @@
 <div align="center">
   <h3>About me</h3>
   - ✨ Studying System Engineering since 2017<br>
-  - 🎯 Goals: Become a Senior Front-End Web Developer:D<br>
+  - 🎯 Goals: Become a Senior Web Developer:D<br>
   - 📚 I'm currently learning English <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" /><br>
   - 🎲 And ... I play videogames!
 </div>
